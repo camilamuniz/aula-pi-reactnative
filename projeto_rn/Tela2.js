@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Tela2() {
   return (
     <View style={styles.container}>
-      <Text>Open up Tela2.js to start working on your Tela2!</Text>
+      <Text>Olá! Aqui é a Tela2, pressione o botão para a tela anterior!</Text>
       <StatusBar style="auto" />
     </View>
   );
