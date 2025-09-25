@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@react-navigation/drawer": "^7.5.8",
     "expo": "^54.0.8"
   }
 }
